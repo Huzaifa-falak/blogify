@@ -33,6 +33,8 @@ Quill Editor - Rich text editing
 Axios - HTTP client
 React Hot Toast - Notifications
 Moment.js - Date/time formatting
+
+
 Backend (Server)
 Node.js - JavaScript runtime
 Express.js - Web framework
@@ -43,6 +45,8 @@ Bcrypt.js - Password hashing
 Cloudinary - Cloud image storage
 Multer - File upload handling
 CORS - Cross-origin support
+
+
 📂 Project Structure
 Code
 blogify/
