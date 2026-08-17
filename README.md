@@ -1,18 +1,28 @@
 🚀 BLOGIFY - Your Modern Blogging Platform
+
+
 📝 Project Description
 Blogify is a powerful, full-stack blogging platform built with cutting-edge web technologies. It's a complete solution for content creators who want to publish, manage, and share their blogs effortlessly. Whether you're a blogger, writer, or content creator, Blogify provides an intuitive interface with professional features to bring your ideas to life.
 
+
+
 ✨ Key Features
+
 👨‍💻 For Authors
 Create & Publish Blogs - Write rich-text blogs using an advanced editor
 Dashboard - Manage all your content from a centralized hub
 Blog Management - Edit, publish, unpublish, and delete blogs
 Comment Moderation - View and manage reader comments
 Image Upload - Upload images directly to cloud storage
+
+
 👥 For Readers
 Browse Blogs - Discover published blogs from all authors
 Read Blog Details - View full blog posts with rich formatting
 Comment & Engage - Leave comments and interact with content
+
+
+
 🛠️ Tech Stack
 Frontend (Client)
 React 19 - Modern UI library with hooks
@@ -58,7 +68,12 @@ blogify/
 │
 └── LICENSE
 🚀 API Endpoints
+
+
+
 Blog Endpoints
+
+
 POST /api/blog/add - Create new blog (Protected)
 GET /api/blog/all - Fetch all published blogs
 GET /api/blog/published/:blogId - Get single blog details
@@ -114,7 +129,10 @@ CLOUDINARY_API_KEY=your_key
 CLOUDINARY_API_SECRET=your_secret
 Client (.env.local)
 Code
+
 VITE_BASE_URL=http://localhost:3000
+
+
 📊 Performance & Optimization
 ⚡ Vite for ultra-fast development
 🎨 Tailwind CSS for optimized styling
